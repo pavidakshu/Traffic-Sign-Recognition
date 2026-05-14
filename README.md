@@ -1,0 +1,1 @@
+Traffic Sign Recognition using SVM is a machine learning project that detects and classifies traffic signs from images. Built using Python, OpenCV, and Scikit-learn, the system uses image preprocessing and Support Vector Machine (SVM) algorithms for accurate traffic sign prediction and classification.
